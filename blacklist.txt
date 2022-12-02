@@ -1,5 +1,6 @@
 *://*.101computing.net/*
 *://*.8bitavenue.com/*
+*://*.9to5answer.com/*
 *://*.a-anime.de/*
 *://*.abhiandroid.com/*
 *://*.addictivetips.com/*
@@ -94,6 +95,7 @@
 *://*.codequizzes.com/*
 *://*.coder911.com/*
 *://*.coderanch.com/*
+*://*.coderscampus.com/*
 *://*.codersera.com/*
 *://*.codershubb.com/*
 *://*.coderslegacy.com/*
@@ -396,6 +398,7 @@
 *://*.metzgerei-balle.de/*
 *://*.milk-atelier.com/*
 *://*.mindbowser.com/*
+*://*.mindmajix.com/*
 *://*.missal-restaurierung.de/*
 *://*.mkyong.com/*
 *://*.modded.com/*
@@ -626,6 +629,7 @@
 *://*.tutorialspoint.com/*
 *://*.tutorialspoint.dev/*
 *://*.tutorialsteacher.com/*
+*://*.tutsinsider.com/*
 *://*.tutsmake.com/*
 *://*.tutsplus.com/*
 *://*.twilightparadox.com/*
