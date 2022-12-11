@@ -112,6 +112,7 @@
 *://*.collegenote.net/*
 *://*.compsci.ca/*
 *://*.computerengineeringuos.blogspot.com/*
+*://*.concretepage.com/*
 *://*.containiq.com/*
 *://*.contentkingapp.com/*
 *://*.convertnation.com/*
@@ -142,6 +143,7 @@
 *://*.daybreakcamp.org/*
 *://*.debug.to/*
 *://*.delftstack.com/*
+*://*.demo2s.com/*
 *://*.dentistiafirenze.fi.it/*
 *://*.deonrc.com/*
 *://*.depodi.de/*
@@ -512,6 +514,7 @@
 *://*.rubyrush.ru/*
 *://*.runestone.academy/*
 *://*.runoob.com/*
+*://*.sabe.io/*
 *://*.saeloun.com/*
 *://*.sarthaks.com/*
 *://*.scaler.com/*
