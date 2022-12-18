@@ -197,7 +197,6 @@
 *://*.eyehunts.com/*
 *://*.ezeroad.com/*
 *://*.ezinearticles.com/*
-*://*.fandom.com/*
 *://*.fantabulosity.com/*
 *://*.favtutor.com/*
 *://*.favtuts.com/*
