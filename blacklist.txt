@@ -69,6 +69,7 @@
 *://*.chegg.com/*
 *://*.chempinsta.com/*
 *://*.chriscruzartistry.com/*
+*://*.circuitsgallery.com/*
 *://*.cleaner-gbr.de/*
 *://*.clickchange.shop/*
 *://*.cloudhadoop.com/*
@@ -247,6 +248,7 @@
 *://*.haircover.shop/*
 *://*.handwiki.org/*
 *://*.heall.com/*
+*://*.healthline.com/*
 *://*.helloacm.com/*
 *://*.himawari-cosmetics.jp/*
 *://*.home.binwise.com/*
@@ -415,6 +417,7 @@
 *://*.neighbourhoodpeek.com/*
 *://*.net-informations.com/*
 *://*.newbedev.com/*
+*://*.newportdunesgolf.com/*
 *://*.njoy-photobox.de/*
 *://*.nkmk.me/*
 *://*.noristudio.net/*
@@ -435,6 +438,7 @@
 *://*.overiq.com/*
 *://*.pakasak.com/*
 *://*.pandemic-wear.de/*
+*://*.pandpkitchen.com/*
 *://*.pangeos.ca/*
 *://*.pediaa.com/*
 *://*.pencilprogrammer.com/*
@@ -572,6 +576,7 @@
 *://*.systutorials.com/*
 *://*.tabnine.com/*
 *://*.tasmaniantimes.com/*
+*://*.teakruthi.com/*
 *://*.teamtreehouse.com/*
 *://*.techbeamers.com/*
 *://*.techblogstation.com/*
