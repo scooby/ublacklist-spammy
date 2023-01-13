@@ -11,6 +11,7 @@
 *://*.alternativeto.net/*
 *://*.alvinalexander.com/*
 *://*.analyticsindiamag.com/*
+*://*.analyticsinsight.net/*
 *://*.apidock.com/*
 *://*.appdividend.com/*
 *://*.arabdawaer.com/*
@@ -594,6 +595,7 @@
 *://*.techvidvan.com/*
 *://*.techviral.net/*
 *://*.testpreptraining.com/*
+*://*.thebloomie.com/*
 *://*.thecrazyprogrammer.com/*
 *://*.thegreatapi.com/*
 *://*.thejavaprogrammer.com/*
