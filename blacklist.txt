@@ -560,6 +560,7 @@
 *://*.stackabuse.com/*
 *://*.stackify.com/*
 *://*.stackify.dev/*
+*://*.stackoom.com/*
 *://*.stackshare.io/*
 *://*.statecourts.org/*
 *://*.stechies.com/*
