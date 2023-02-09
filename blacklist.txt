@@ -730,6 +730,7 @@
 *://*.scotlandis.com/*
 *://*.sebhastian.com/*
 *://*.seisas.com.ar/*
+*://*.seleniumeasy.com/*
 *://*.semicolonworld.com/*
 *://*.semrush.com/*
 *://*.seoinc.com/*
@@ -793,6 +794,7 @@
 *://*.systutorials.com/*
 *://*.tabnine.com/*
 *://*.tasmaniantimes.com/*
+*://*.teaaudit.com/*
 *://*.teakruthi.com/*
 *://*.teamtreehouse.com/*
 *://*.techbeamers.com/*
@@ -811,6 +813,7 @@
 *://*.techvidvan.com/*
 *://*.techviral.net/*
 *://*.teepr.com/*
+*://*.testingdocs.com/*
 *://*.testpreptraining.com/*
 *://*.thebloomie.com/*
 *://*.thecrazyprogrammer.com/*
