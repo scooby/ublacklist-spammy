@@ -162,6 +162,7 @@
 *://*.codingpointer.com/*
 *://*.collegenote.net/*
 *://*.compsci.ca/*
+*://*.computerengineeringuos.blogspot.com/*
 *://*.concretepage.com/*
 *://*.containiq.com/*
 *://*.contentkingapp.com/*
@@ -172,6 +173,7 @@
 *://*.coralogix.com/*
 *://*.coursehero.com/*
 *://*.cpp.edu/*
+*://*.cppforschool.com/*
 *://*.cppsecrets.com/*
 *://*.crazy-photoshop.com/*
 *://*.crunchify.com/*
@@ -248,7 +250,6 @@
 *://*.electricalvoice.com/*
 *://*.electronicproducts.com/*
 *://*.encanagroup.com/*
-*://*.encanagroup.com/**://*.addictivetips.com/*
 *://*.enews.com.tw/*
 *://*.engineyard.com/*
 *://*.eplions.org/*
@@ -260,6 +261,7 @@
 *://*.eviltester.com/*
 *://*.exam-answer.com/*
 *://*.examtray.com/*
+*://*.excelkingdom.blogspot.com/*
 *://*.eyehunts.com/*
 *://*.ezeroad.com/*
 *://*.ezgoe.com/*
@@ -412,6 +414,7 @@
 *://*.iseepassword.com/*
 *://*.ispot.news/*
 *://*.itcodar.com/*
+*://*.itexpertly.com/*
 *://*.itkeyword.com/*
 *://*.itnext.io/*
 *://*.izhentoo.cc/*
@@ -437,10 +440,12 @@
 *://*.javaforstudents.co.uk/*
 *://*.javagoal.com/*
 *://*.javaguides.net/*
+*://*.javahungry.blogspot.com/*
 *://*.javainterviewpoint.com/*
 *://*.javamadesoeasy.com/*
 *://*.javapointers.com/*
 *://*.javaprogramto.com/*
+*://*.javarevisited.blogspot.com/*
 *://*.javascriptkit.com/*
 *://*.javascripttutorial.net/*
 *://*.javatpoint.com/*
@@ -508,6 +513,8 @@
 *://*.likea.ezvivi.com/*
 *://*.likegeeks.com/*
 *://*.line-share.tw/*
+*://*.linkbuildingcorp.com/*
+*://*.linkdoctor.io/*
 *://*.linuxcapable.com/*
 *://*.linuxconfig.org/*
 *://*.linuxhint.com/*
@@ -616,6 +623,7 @@
 *://*.orgs.one/*
 *://*.ourstarsky.com/*
 *://*.overiq.com/*
+*://*.pagerankbar.com/*
 *://*.pakasak.com/*
 *://*.pandemic-wear.de/*
 *://*.pandpkitchen.com/*
@@ -696,7 +704,6 @@
 *://*.quickprogrammingtips.com/*
 *://*.quiz321.com/*
 *://*.qvault.io/*
-*://*.qzapp.net/*
 *://*.qzapp.net/*
 *://*.randomwordgenerator.com/*
 *://*.randomwordgenerator.org/*
@@ -975,3 +982,4 @@
 *://javarevisited.blogspot.com/*
 *://speedofme.zendesk.com/*
 *://technicalmasterblog.wordpress.com/*
+
