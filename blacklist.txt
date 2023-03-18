@@ -64,6 +64,7 @@
 *://*.biginfo4u.com/*
 *://*.bignews01.com/*
 *://*.bitdegree.org/*
+*://*.blockchain-council.org/*
 *://*.blog.mindorks.com/*
 *://*.blog.tinystacks.com/*
 *://*.bmc.com/*
@@ -155,6 +156,7 @@
 *://*.codesource.io/*
 *://*.codespeedy.com/*
 *://*.codevscolor.com/*
+*://*.codewolfpack.com/*
 *://*.codezclub.com/*
 *://*.codingbat.com/*
 *://*.codingnconcepts.com/*
