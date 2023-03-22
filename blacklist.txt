@@ -1,3 +1,5 @@
+*://*.cppforschool.com/*
+*://*.javadevjournal.com/*
 *://*.101computing.net/*
 *://*.163nvren.com/*
 *://*.360doc.com/*
