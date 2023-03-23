@@ -1,5 +1,3 @@
-*://*.cppforschool.com/*
-*://*.javadevjournal.com/*
 *://*.101computing.net/*
 *://*.163nvren.com/*
 *://*.360doc.com/*
@@ -37,6 +35,7 @@
 *://*.askingthelot.com/*
 *://*.askjavascript.com/*
 *://*.askpython.com/*
+*://*.asks.tips/*
 *://*.assignmentexpert.com/*
 *://*.attacomsian.com/*
 *://*.avajava.com/*
@@ -49,6 +48,7 @@
 *://*.ballgametime.com/*
 *://*.bananadaily.net/*
 *://*.barker.codes/*
+*://*.bartleby.com/*
 *://*.baseops.net/*
 *://*.baumbach-haeusle.de/*
 *://*.bc3ts.com/*
@@ -412,6 +412,7 @@
 *://*.interviewsansar.com/*
 *://*.inviul.com/*
 *://*.ionos.com/*
+*://*.ipaddress.com/*
 *://*.ipetgroup.com/*
 *://*.iqcode.com/*
 *://*.ireaded.com/*
@@ -440,6 +441,7 @@
 *://*.javachinna.com/*
 *://*.javacodeexamples.com/*
 *://*.javacodegeeks.com/*
+*://*.javadevjournal.com/*
 *://*.javaer101.com/*
 *://*.javaforstudents.co.uk/*
 *://*.javagoal.com/*
@@ -986,4 +988,3 @@
 *://javarevisited.blogspot.com/*
 *://speedofme.zendesk.com/*
 *://technicalmasterblog.wordpress.com/*
-
