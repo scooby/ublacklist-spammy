@@ -217,6 +217,7 @@
 *://*.develou.com/*
 *://*.devgenius.io/*
 *://*.devtut.github.io/*
+*://*.devwithus.com/*
 *://*.dickbaldwin.com/*
 *://*.diffen.com/*
 *://*.difference.wiki/*
