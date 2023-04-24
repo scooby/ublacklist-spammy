@@ -216,6 +216,7 @@
 *://*.developpaper.com/*
 *://*.develou.com/*
 *://*.devgenius.io/*
+*://*.devopsschool.com/*
 *://*.devtut.github.io/*
 *://*.devwithus.com/*
 *://*.dickbaldwin.com/*
@@ -347,6 +348,7 @@
 *://*.hackerrank.com/*
 *://*.hackr.io/*
 *://*.haircover.shop/*
+*://*.hameister.org/*
 *://*.handread.cc/*
 *://*.handwiki.org/*
 *://*.haolookr.com/*
@@ -488,6 +490,7 @@
 *://*.kodify.net/*
 *://*.kotlin.thiyagaraaj.com/*
 *://*.kuso01.tv/*
+*://*.lambdatest.com/*
 *://*.lastgeneration.pl/*
 *://*.laubongda.info/*
 *://*.laughbombclub.com/*
@@ -593,6 +596,7 @@
 *://*.mycplus.com/*
 *://*.myfbshare.net/*
 *://*.myfunnews.com/*
+*://*.mygreatlearning.com/*
 *://*.mysqltutorial.org/*
 *://*.mytimes.org/*
 *://*.n4vu.com/*
@@ -743,6 +747,7 @@
 *://*.scand.com/*
 *://*.scotlandis.com/*
 *://*.sebhastian.com/*
+*://*.section.io/*
 *://*.seisas.com.ar/*
 *://*.seleniumeasy.com/*
 *://*.semicolonworld.com/*
@@ -765,6 +770,7 @@
 *://*.sk2zone.com/*
 *://*.skillsugar.com/*
 *://*.skytowner.com/*
+*://*.slackmojis.com/*
 *://*.slant.co/*
 *://*.slideshare.net/*
 *://*.smartgeek.es/*
@@ -839,6 +845,7 @@
 *://*.thehealther.com/*
 *://*.thejavaprogrammer.com/*
 *://*.thekitchn.com/*
+*://*.theknowledgeacademy.com/*
 *://*.theodinproject.com/*
 *://*.thesoftwareguild.com/*
 *://*.theunitconverter.com/*
