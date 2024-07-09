@@ -38,12 +38,14 @@
 *://*.alvinalexander.com/*
 *://*.analyticsindiamag.com/*
 *://*.analyticsinsight.net/*
+*://*.anylogic.help/*
 *://*.apidock.com/*
 *://*.apnews.com/*
 *://*.appdividend.com/*
 *://*.apple01.net/*
 *://*.appnews.fanswong.com/*
 *://*.arabdawaer.com/*
+*://*.arraythis.com/*
 *://*.articlesfactory.com/*
 *://*.asia01.club/*
 *://*.askanydifference.com/*
@@ -84,6 +86,7 @@
 *://*.besanttechnologies.com/*
 *://*.bestcolleges.com/*
 *://*.betterprogramming.pub/*
+*://*.bettersolutions.com/*
 *://*.beyondjava.net/*
 *://*.bezkoder.com/*
 *://*.biginfo4u.com/*
@@ -91,6 +94,7 @@
 *://*.bitdegree.org/*
 *://*.bizjournals.com/*
 *://*.blackenterprise.com/*
+*://*.blackwasp.co.uk/*
 *://*.blockchain-council.org/*
 *://*.blog.mindorks.com/*
 *://*.blog.tinystacks.com/*
@@ -122,6 +126,7 @@
 *://*.buzzlife.com.tw/*
 *://*.buzznews.news/*
 *://*.byjus.com/*
+*://*.bytehide.com/*
 *://*.bytes.com/*
 *://*.c-sharpcorner.com/*
 *://*.cacanews.com/*
@@ -148,6 +153,7 @@
 *://*.cibeiwen.com/*
 *://*.circle01.com/*
 *://*.circuitsgallery.com/*
+*://*.circuitstream.com/*
 *://*.classicofloves.com/*
 *://*.cleaner-gbr.de/*
 *://*.clickchange.shop/*
@@ -165,18 +171,23 @@
 *://*.coddingbuddy.com/*
 *://*.code-knowledge.com/*
 *://*.code-maven.com/*
+*://*.code-maze.com/*
 *://*.code-specialist.com/*
 *://*.code4coding.com/*
 *://*.code4javac.com/*
 *://*.codeahoy.com/*
 *://*.codebator.com/*
 *://*.codeberryschool.com/*
+*://*.codebuns.com/*
 *://*.codeburst.io/*
 *://*.codecademy.com/*
+*://*.codechef.com/*
 *://*.codedocs.org/*
 *://*.codefather.tech/*
 *://*.codegrepper.com/*
+*://*.codegym.cc/*
 *://*.codehippo.co.uk/*
+*://*.codehs.com/*
 *://*.codeigo.com/*
 *://*.codejava.net/*
 *://*.codementor.io/*
@@ -197,6 +208,7 @@
 *://*.codevscolor.com/*
 *://*.codewolfpack.com/*
 *://*.codezclub.com/*
+*://*.codingame.com/*
 *://*.codingbat.com/*
 *://*.codingnconcepts.com/*
 *://*.codingninjas.com/*
@@ -284,6 +296,7 @@
 *://*.dofactory.com/*
 *://*.dongqiuxiang.net/*
 *://*.dotnetperls.com/*
+*://*.dotnettutorials.net/*
 *://*.dremendo.com/*
 *://*.dsy39.com/*
 *://*.dummies.com/*
@@ -295,6 +308,7 @@
 *://*.easycodebook.com/*
 *://*.eazon.com/*
 *://*.ebcbuzz.com/*
+*://*.edabit.com/*
 *://*.edod.trysla.pl/*
 *://*.edu4java.com/*
 *://*.educative.io/*
@@ -319,6 +333,8 @@
 *://*.eviltester.com/*
 *://*.exam-answer.com/*
 *://*.examtray.com/*
+*://*.exceptionnotfound.net/*
+*://*.exercism.org/*
 *://*.eyehunts.com/*
 *://*.ezeroad.com/*
 *://*.ezgoe.com/*
@@ -352,6 +368,7 @@
 *://*.fun.youngboysgirls.com/*
 *://*.fun01.cc/*
 *://*.fun01.net/*
+*://*.functionx.com/*
 *://*.funnies.online/*
 *://*.funssy.com/*
 *://*.funvdo01.com/*
@@ -384,6 +401,7 @@
 *://*.gkrailings.com/*
 *://*.gleenow.com/*
 *://*.go.com/*
+*://*.go4expert.com/*
 *://*.gofammy.com/*
 *://*.golangdocs.com/*
 *://*.golangexample.com/*
@@ -427,6 +445,7 @@
 *://*.helloacm.com/*
 *://*.heraldtribune.com/*
 *://*.hernandosun.com/*
+*://*.herovired.com/*
 *://*.himawari-cosmetics.jp/*
 *://*.historynewsnetwork.org/*
 *://*.hk.maheshbhusal.com.np/*
@@ -434,6 +453,7 @@
 *://*.hktimes.org/*
 *://*.hkwall.com/*
 *://*.home.binwise.com/*
+*://*.homeandlearn.co.uk/*
 *://*.honey99.net/*
 *://*.honeybadger.io/*
 *://*.hoteldusaugeais.fr/*
@@ -471,6 +491,7 @@
 *://*.indeed.com/*
 *://*.independent.co.uk/*
 *://*.infobyip.com/*
+*://*.informit.com/*
 *://*.infoworld.com/*
 *://*.initialcommit.com/*
 *://*.innovationyourself.com/*
@@ -479,13 +500,17 @@
 *://*.intellipaat.com/*
 *://*.interestingpo.com/*
 *://*.interviewbazaar.net/*
+*://*.interviewbit.com/*
+*://*.interviewkickstart.com/*
 *://*.interviewsansar.com/*
 *://*.inviul.com/*
+*://*.ioflood.com/*
 *://*.ionos.com/*
 *://*.ipaddress.com/*
 *://*.ipetgroup.com/*
 *://*.iqcode.com/*
 *://*.ireaded.com/*
+*://*.ironpdf.com/*
 *://*.iseepassword.com/*
 *://*.ispot.news/*
 *://*.itcodar.com/*
@@ -511,6 +536,7 @@
 *://*.javachinna.com/*
 *://*.javacodeexamples.com/*
 *://*.javacodegeeks.com/*
+*://*.javaconceptoftheday.com/*
 *://*.javadevjournal.com/*
 *://*.javaer101.com/*
 *://*.javaforstudents.co.uk/*
@@ -521,6 +547,7 @@
 *://*.javamadesoeasy.com/*
 *://*.javapointers.com/*
 *://*.javaprogramto.com/*
+*://*.javascript.info/*
 *://*.javascriptkit.com/*
 *://*.javascripttutorial.net/*
 *://*.javatpoint.com/*
@@ -550,6 +577,7 @@
 *://*.keycdn.com/*
 *://*.kidskonnect.com/*
 *://*.kikinote.net/*
+*://*.killalldefects.com/*
 *://*.kindsonthegenius.com/*
 *://*.kirenz.github.io/*
 *://*.kiro7.com/*
@@ -576,6 +604,7 @@
 *://*.learndatasci.com/*
 *://*.learnenough.com/*
 *://*.learnersbucket.com/*
+*://*.learnerslesson.com/*
 *://*.learnhowtoprogram.com/*
 *://*.learningaboutelectronics.com/*
 *://*.learningjournal.guru/*
@@ -586,6 +615,7 @@
 *://*.learnsql.com/*
 *://*.learntocodetogether.com/*
 *://*.leba-staporkow.pl/*
+*://*.leetcode.com/*
 *://*.leoexcellentjunkremoval.com/*
 *://*.letu.life/*
 *://*.liacreazioni.it/*
@@ -601,6 +631,7 @@
 *://*.line-share.tw/*
 *://*.linkbuildingcorp.com/*
 *://*.linkdoctor.io/*
+*://*.linkedin.com/*
 *://*.linuxcapable.com/*
 *://*.linuxconfig.org/*
 *://*.linuxhint.com/*
@@ -637,10 +668,12 @@
 *://*.markdowntutorial.com/*
 *://*.maschituts.com/*
 *://*.masteringjs.io/*
+*://*.mathbits.com/*
 *://*.mattcrampton.com/*
 *://*.mattelmall.shop/*
 *://*.maxchadwick.xyz/*
 *://*.maximorlov.com/*
+*://*.mcneel.com/*
 *://*.meaww.com/*
 *://*.meble.lublin.pl/*
 *://*.media8.me/*
@@ -691,6 +724,7 @@
 *://*.near-me.store/*
 *://*.neighbourhoodpeek.com/*
 *://*.net-informations.com/*
+*://*.net-tutorials.com/*
 *://*.newbedev.com/*
 *://*.newportdunesgolf.com/*
 *://*.newrepublic.com/*
@@ -737,6 +771,7 @@
 *://*.orlandoweekly.com/*
 *://*.ourstarsky.com/*
 *://*.overiq.com/*
+*://*.owlcation.com/*
 *://*.oxygen.com/*
 *://*.pagerankbar.com/*
 *://*.pakasak.com/*
@@ -828,6 +863,7 @@
 *://*.ques10.com/*
 *://*.quickprogrammingtips.com/*
 *://*.quiz321.com/*
+*://*.quizlet.com/*
 *://*.qvault.io/*
 *://*.qzapp.net/*
 *://*.rabihnahas.com/*
@@ -863,10 +899,12 @@
 *://*.sacbee.com/*
 *://*.saeloun.com/*
 *://*.salon.com/*
+*://*.sanfoundry.com/*
 *://*.sarthaks.com/*
 *://*.sbsun.com/*
 *://*.scaler.com/*
 *://*.scand.com/*
+*://*.scholarhat.com/*
 *://*.scientecheasy.com/*
 *://*.scotlandis.com/*
 *://*.sebhastian.com/*
@@ -875,6 +913,7 @@
 *://*.seleniumeasy.com/*
 *://*.semicolonworld.com/*
 *://*.semrush.com/*
+*://*.sentry.io/*
 *://*.seoinc.com/*
 *://*.sgmljs.net/*
 *://*.sgrauscorporation.com/*
@@ -886,8 +925,10 @@
 *://*.shareba.com/*
 *://*.shareonion.com/*
 *://*.sharetify.com/*
+*://*.shiksha.com/*
 *://*.shortcutfoo.com/*
 *://*.simpleprogrammer.com/*
+*://*.simplesnippets.tech/*
 *://*.simplilearn.com/*
 *://*.simplycoding.in/*
 *://*.sitepoint.com/*
@@ -907,6 +948,7 @@
 *://*.softwaregarden.dev/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretestingmaterial.com/*
+*://*.sololearn.com/*
 *://*.solutionschecker.com/*
 *://*.sourcecodester.com/*
 *://*.spanishdict.com/*
@@ -920,6 +962,7 @@
 *://*.sqlshack.com/*
 *://*.sqltutorial.net/*
 *://*.sqltutorial.org/*
+*://*.squash.io/*
 *://*.stackabuse.com/*
 *://*.stackify.com/*
 *://*.stackify.dev/*
@@ -935,9 +978,13 @@
 *://*.stubbornjava.com/*
 *://*.study.com/*
 *://*.studyeasy.org/*
+*://*.studyflix.de/*
 *://*.studyglance.in/*
 *://*.studynature.net/*
+*://*.studysmarter.co.uk/*
 *://*.studytonight.com/*
+*://*.studyx.ai/*
+*://*.submain.com/*
 *://*.subscription-rc.packtpub.com/*
 *://*.subscription.packtpub.com/*
 *://*.sun-sentinel.com/*
@@ -959,7 +1006,9 @@
 *://*.techdifferences.com/*
 *://*.techgeekbuzz.com/*
 *://*.techidology.com/*
+*://*.techieclues.com/*
 *://*.techiedelight.com/*
+*://*.techiehook.com/*
 *://*.techkorr.com/*
 *://*.technical-qa.com/*
 *://*.techonthenet.com/*
@@ -971,12 +1020,14 @@
 *://*.techviral.net/*
 *://*.teepr.com/*
 *://*.tektutorialshub.com/*
+*://*.telerik.com/*
 *://*.tenthousandmeters.com/*
 *://*.testingdocs.com/*
 *://*.testpreptraining.com/*
 *://*.thebloomie.com/*
 *://*.thebradentontimes.com/*
 *://*.thecapitolist.com/*
+*://*.thecodingguys.net/*
 *://*.thecontentauthority.com/*
 *://*.theconversation.com/*
 *://*.thecrazyprogrammer.com/*
@@ -996,6 +1047,7 @@
 *://*.theknowledgeacademy.com/*
 *://*.theodinproject.com/*
 *://*.theserif.net/*
+*://*.theserverside.com/*
 *://*.thesoftwareguild.com/*
 *://*.theunitconverter.com/*
 *://*.thewindowsclub.com/*
@@ -1016,8 +1068,10 @@
 *://*.topperskills.com/*
 *://*.tothenew.com/*
 *://*.towardsdatascience.com/*
+*://*.tracedynamics.com/*
 *://*.transliontour.al/*
 *://*.treehozz.com/*
+*://*.trinket.io/*
 *://*.trithe.com/*
 *://*.ttshow.tw/*
 *://*.tudip.com/*
@@ -1032,6 +1086,7 @@
 *://*.tutorialink.com/*
 *://*.tutorialkart.com/*
 *://*.tutorialrepublic.com/*
+*://*.tutorials.eu/*
 *://*.tutorialsandyou.com/*
 *://*.tutorialsbuddy.com/*
 *://*.tutorialscan.com/*
@@ -1042,6 +1097,7 @@
 *://*.tutorialspoint.dev/*
 *://*.tutorialsteacher.com/*
 *://*.tutorialstonight.com/*
+*://*.tutorocean.com/*
 *://*.tutsinsider.com/*
 *://*.tutsmake.com/*
 *://*.tutsplus.com/*
@@ -1053,6 +1109,7 @@
 *://*.u-express.jp/*
 *://*.ubbcluj.ro/*
 *://*.udacity.com/*
+*://*.udemy.com/*
 *://*.uiux-design.de/*
 *://*.unfspinnaker.com/*
 *://*.unibz.it/*
@@ -1101,6 +1158,7 @@
 *://*.wctv.tv/*
 *://*.webnots.com/*
 *://*.websitepulse.com/*
+*://*.wellsb.com/*
 *://*.werlnet.net/*
 *://*.wesbos.com/*
 *://*.wesionary.team/*
@@ -1121,6 +1179,7 @@
 *://*.winaero.com/*
 *://*.wingtsun-alphen.nl/*
 *://*.winknews.com/*
+*://*.witscad.com/*
 *://*.wkgoto.com/*
 *://*.wlearnsmart.com/*
 *://*.womanaaa.com/*
@@ -1136,6 +1195,7 @@
 *://*.wuft.org/*
 *://*.xianso.com/*
 *://*.xibao.tw/*
+*://*.xperti.io/*
 *://*.xuxianghui.cc/*
 *://*.xuxinfang.xyz/*
 *://*.yahoo.com/lifestyle/*
@@ -1149,10 +1209,12 @@
 *://*.yourfacts.club/*
 *://*.yourhope.info/*
 *://*.yourstory.com/*
+*://*.youth4work.com/*
 *://*.youthwant.com.tw/*
 *://*.youthwant.com/*
 *://*.youthwant.ufc.com.tw/*
 *://*.youthwant.xnnow.com/*
+*://*.youtube.com/*
 *://*.zatrudnienienicprostszego.pl/*
 *://*.zditect.com/*
 *://*.zellwk.com/*
@@ -1164,10 +1226,12 @@
 *://*.zhoucuimei.cc/*
 *://*.zhulinlin.net/*
 *://*.ziniprimeur.fr/*
+*://codehs.gitbooks.io/*
 *://computerengineeringuos.blogspot.com/*
 *://excelkingdom.blogspot.com/*
 *://faminereports.blogspot.com/*
 *://gyansetu-core-java-for-java.gitbook.io/*
+*://ivanpop.azurewebsites.net/*
 *://javahungry.blogspot.com/*
 *://javarevisited.blogspot.com/*
 *://speedofme.zendesk.com/*
