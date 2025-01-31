@@ -25,6 +25,7 @@
 *://*.actionnewsjax.com/*
 *://*.adamtheautomator.com/*
 *://*.addictivetips.com/*
+*://*.adventuresinmachinelearning.com/*
 *://*.advocate.com/*
 *://*.agri35.com/*
 *://*.alibaba.com/*
@@ -85,6 +86,7 @@
 *://*.benchresources.net/*
 *://*.besanttechnologies.com/*
 *://*.bestcolleges.com/*
+*://*.betterexplained.com/*
 *://*.betterprogramming.pub/*
 *://*.bettersolutions.com/*
 *://*.beyondjava.net/*
@@ -103,6 +105,8 @@
 *://*.bobbyhadz.com/*
 *://*.bokefurniture.com/*
 *://*.bomb01.com/*
+*://*.borderpolar.com/*
+*://*.boredpanda.com/*
 *://*.bottle01.tw/*
 *://*.brainly.in/*
 *://*.brandschutz-discount-service.de/*
@@ -149,6 +153,7 @@
 *://*.chicagotribune.com/*
 *://*.chinesealliance.net/*
 *://*.chriscruzartistry.com/*
+*://*.christianeducatorsacademy.com/*
 *://*.chunew.com/*
 *://*.cibeiwen.com/*
 *://*.circle01.com/*
@@ -251,6 +256,7 @@
 *://*.dare2compete.com/*
 *://*.data-flair.training/*
 *://*.databasestar.com/*
+*://*.datacadamia.com/*
 *://*.datacamp.com/*
 *://*.datadriveninvestor.com/*
 *://*.datagy.io/*
@@ -285,6 +291,7 @@
 *://*.differencebetween.net/*
 *://*.differencesx.com/*
 *://*.diffsense.com/*
+*://*.digital-detective.net/*
 *://*.digitalocean.com/*
 *://*.digitaltrends.com/*
 *://*.discoss.com/*
@@ -323,6 +330,7 @@
 *://*.endangeredscholarsworldwide.net/*
 *://*.enews.com.tw/*
 *://*.engineyard.com/*
+*://*.englishteachersite.com/*
 *://*.eplions.org/*
 *://*.equilibreetdecouverte.fr/*
 *://*.eriktrautman.com/*
@@ -344,6 +352,7 @@
 *://*.ezvivi.com/*
 *://*.ezvivi2.com/*
 *://*.f.duckhk.com/*
+*://*.factly.in/*
 *://*.fanli7.net/*
 *://*.fantabulosity.com/*
 *://*.favtutor.com/*
@@ -415,12 +424,14 @@
 *://*.gordon.edu/*
 *://*.goseeko.com/*
 *://*.gourmetsleuth.com/*
+*://*.gq.com/*
 *://*.grabthiscode.com/*
 *://*.greycampus.com/*
 *://*.guidingtech.com/*
 *://*.guowenme.cc/*
 *://*.guru99.com/*
 *://*.guudo.cn/*
+*://*.gyata.ai/*
 *://*.gyfunnews.com/*
 *://*.hackernoon.com/*
 *://*.hackerrank.com/*
@@ -518,6 +529,7 @@
 *://*.itkeyword.com/*
 *://*.itnext.io/*
 *://*.izhentoo.cc/*
+*://*.jacobpadilla.com/*
 *://*.jafoor.com/*
 *://*.janbasktraining.com/*
 *://*.java-examples.com/*
@@ -531,6 +543,7 @@
 *://*.java6tutor.com/*
 *://*.javaassignmenthelp.com/*
 *://*.javabeat.net/*
+*://*.javabeginnerstutorial.com/*
 *://*.javabrahman.com/*
 *://*.javabydeveloper.com/*
 *://*.javachinna.com/*
@@ -587,15 +600,19 @@
 *://*.kodejava.org/*
 *://*.koderhq.com/*
 *://*.kodify.net/*
+*://*.kotaku.com/*
 *://*.kotlin.thiyagaraaj.com/*
+*://*.kotlinserversquad.com/*
 *://*.kusi.com/*
 *://*.kuso01.tv/*
+*://*.ladbible.com/*
 *://*.lambdatest.com/*
 *://*.lastgeneration.pl/*
 *://*.latimes.com/*
 *://*.laubongda.info/*
 *://*.laughbombclub.com/*
 *://*.launchschool.com/*
+*://*.leadstories.com/*
 *://*.learn.co/*
 *://*.learn4good.com/*
 *://*.learncodeweb.com/*
@@ -652,6 +669,7 @@
 *://*.machikokotei.com/*
 *://*.machinelearningmastery.com/*
 *://*.machinelearningplus.com/*
+*://*.machinelearningtutorials.org/*
 *://*.machow2.com/*
 *://*.macuninstallguides.com/*
 *://*.made-in-china.com/*
@@ -791,7 +809,9 @@
 *://*.petergichia.hashnode.dev/*
 *://*.peterravenhorst.nl/*
 *://*.phrase.com/*
+*://*.physics-network.org/*
 *://*.picallies.com/*
+*://*.piembsystech.com/*
 *://*.pimylifeup.com/*
 *://*.pineapple99.com/*
 *://*.pixpo.net/*
@@ -827,6 +847,7 @@
 *://*.programmingsimplified.com/*
 *://*.programtalk.com/*
 *://*.prosthodonticsbocaraton.com/*
+*://*.proxiesapi.com/*
 *://*.ps.loveshares.cc/*
 *://*.psrbiochem.in/*
 *://*.ptt01.cc/*
@@ -885,6 +906,7 @@
 *://*.riptutorial.com/*
 *://*.roadnow.com/*
 *://*.robiul.dev/*
+*://*.rollingstone.com/*
 *://*.ronaldjamesgroup.com/*
 *://*.roytuts.com/*
 *://*.rubyguides.com/*
@@ -913,6 +935,8 @@
 *://*.seleniumeasy.com/*
 *://*.semicolonworld.com/*
 *://*.semrush.com/*
+*://*.sensorstechforum.com/*
+*://*.sentinelmission.org/*
 *://*.sentry.io/*
 *://*.seoinc.com/*
 *://*.sgmljs.net/*
@@ -938,10 +962,12 @@
 *://*.slackmojis.com/*
 *://*.slant.co/*
 *://*.slideshare.net/*
+*://*.slingacademy.com/*
 *://*.smartgeek.es/*
 *://*.smartherd.com/*
 *://*.smartlanguagelearner.com/*
 *://*.smashingmagazine.com/*
+*://*.snopes.com/*
 *://*.so-viel-meer.de/*
 *://*.sobyte.net/*
 *://*.sodocumentation.net/*
@@ -989,6 +1015,7 @@
 *://*.subscription.packtpub.com/*
 *://*.sun-sentinel.com/*
 *://*.suntimes.com/*
+*://*.superfastpython.com/*
 *://*.superfun-e.com/*
 *://*.superkotlin.com/*
 *://*.sweetbreezeyarns.com/*
@@ -1015,7 +1042,9 @@
 *://*.techopedia.com/*
 *://*.techotopia.com/*
 *://*.techpluslifestyle.com/*
+*://*.techpout.com/*
 *://*.techraptor.net/*
+*://*.techtarget.com/*
 *://*.techvidvan.com/*
 *://*.techviral.net/*
 *://*.teepr.com/*
@@ -1024,6 +1053,7 @@
 *://*.tenthousandmeters.com/*
 *://*.testingdocs.com/*
 *://*.testpreptraining.com/*
+*://*.thebirdidentifier.com/*
 *://*.thebloomie.com/*
 *://*.thebradentontimes.com/*
 *://*.thecapitolist.com/*
@@ -1073,6 +1103,7 @@
 *://*.treehozz.com/*
 *://*.trinket.io/*
 *://*.trithe.com/*
+*://*.truthorfiction.com/*
 *://*.ttshow.tw/*
 *://*.tudip.com/*
 *://*.tumbex.com/*
@@ -1091,6 +1122,7 @@
 *://*.tutorialsbuddy.com/*
 *://*.tutorialscan.com/*
 *://*.tutorialsclass.com/*
+*://*.tutorialsfreak.com/*
 *://*.tutorialshut.com/*
 *://*.tutorialsinhand.com/*
 *://*.tutorialspoint.com/*
@@ -1113,6 +1145,7 @@
 *://*.uiux-design.de/*
 *://*.unfspinnaker.com/*
 *://*.unibz.it/*
+*://*.universetoday.com/*
 *://*.universityworldnews.com/*
 *://*.upberita.com/*
 *://*.upcity.com/*
@@ -1142,6 +1175,7 @@
 *://*.vox.com/*
 *://*.w3adda.com/*
 *://*.w3codeworld.com/*
+*://*.w3computing.com/*
 *://*.w3docs.com/*
 *://*.w3programmers.org/*
 *://*.w3resource.com/*
@@ -1185,9 +1219,11 @@
 *://*.womanaaa.com/*
 *://*.womanonrails.com/*
 *://*.wonder4.co/*
+*://*.wpde.com/*
 *://*.wpkube.com/*
 *://*.wptv.com/*
 *://*.wpxi.com/*
+*://*.writingexplained.org/*
 *://*.wsj.com/*
 *://*.wsoctv.com/*
 *://*.wsvn.com/*
@@ -1226,8 +1262,13 @@
 *://*.zhoucuimei.cc/*
 *://*.zhulinlin.net/*
 *://*.ziniprimeur.fr/*
+*://blog.indrek.io/*
+*://blog.submain.com/*
+*://blog.udemy.com/*
+*://books.trinket.io/*
 *://codehs.gitbooks.io/*
 *://computerengineeringuos.blogspot.com/*
+*://discourse.mcneel.com/*
 *://excelkingdom.blogspot.com/*
 *://faminereports.blogspot.com/*
 *://gyansetu-core-java-for-java.gitbook.io/*
