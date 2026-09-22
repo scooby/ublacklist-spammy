@@ -306,6 +306,7 @@
 *://*.dentistiafirenze.fi.it/*
 *://*.deonrc.com/*
 *://*.depodi.de/*
+*://*.detroitchinatown.org/*
 *://*.dev.co/*
 *://*.dev.to/*
 *://*.devdoc.net/*
@@ -350,6 +351,7 @@
 *://*.dsy39.com/*
 *://*.dummies.com/*
 *://*.dungwa.com/*
+*://*.dw.com/*
 *://*.dyclassroom.com/*
 *://*.dzone.com/*
 *://*.e-4u.info/*
@@ -357,6 +359,7 @@
 *://*.easycodebook.com/*
 *://*.eazon.com/*
 *://*.ebcbuzz.com/*
+*://*.economist.com/*
 *://*.edabit.com/*
 *://*.edod.trysla.pl/*
 *://*.edu4java.com/*
@@ -515,6 +518,7 @@
 *://*.hameister.org/*
 *://*.handread.cc/*
 *://*.handwiki.org/*
+*://*.hans-zimmer.com/*
 *://*.haolookr.com/*
 *://*.happies.news/*
 *://*.happiness.beauties.life/*
@@ -795,6 +799,9 @@
 *://*.mamicode.com/*
 *://*.mango01.com/*
 *://*.manifoldapp.org/*
+*://*.manua.ls/*
+*://*.manualshelf.com/*
+*://*.manualslib.com/*
 *://*.maoanbo.net/*
 *://*.marbella-grand-mohali.site/*
 *://*.markdown.land/*
@@ -1129,6 +1136,7 @@
 *://*.sitepoint.com/*
 *://*.sk2zone.com/*
 *://*.skillsugar.com/*
+*://*.sky.com/*
 *://*.skytowner.com/*
 *://*.slackmojis.com/*
 *://*.slant.co/*
@@ -1173,6 +1181,7 @@
 *://*.statecourts.org/*
 *://*.stechies.com/*
 *://*.stevenmwesigwa.com/*
+*://*.stockcake.com/*
 *://*.stoneraymassage.com/*
 *://*.stonesoupprogramming.com/*
 *://*.story.bazzfly.com/*
@@ -1270,6 +1279,7 @@
 *://*.thewindowsclub.com/*
 *://*.theworld.org/*
 *://*.theyuvas.com/*
+*://*.thisvsthat.io/*
 *://*.thoughtco.com/*
 *://*.tiktok.com/*
 *://*.tildeloop.com/*
