@@ -73,6 +73,7 @@
 *://*.avaldes.com/*
 *://*.awesomeopensource.com/*
 *://*.axios.com/*
+*://*.bab.la/*
 *://*.babymaycry.com/*
 *://*.baeldung-cn.com/*
 *://*.baeldung.com/*
@@ -131,6 +132,7 @@
 *://*.bubuko.com/*
 *://*.bucktop.com/*
 *://*.buggyprogrammer.com/*
+*://*.bunkhistory.org/*
 *://*.bunnygo.net/*
 *://*.businessinsider.com/*
 *://*.buzz01.com/*
@@ -214,6 +216,7 @@
 *://*.codehippo.co.uk/*
 *://*.codehs.com/*
 *://*.codeigo.com/*
+*://*.codeinstitute.net/*
 *://*.codejava.net/*
 *://*.codelucky.com/*
 *://*.codementor.io/*
@@ -332,6 +335,7 @@
 *://*.diffsense.com/*
 *://*.digibeatrix.com/*
 *://*.digital-detective.net/*
+*://*.digitalcultures.net/*
 *://*.digitalocean.com/*
 *://*.digitaltrends.com/*
 *://*.discoss.com/*
@@ -374,6 +378,7 @@
 *://*.electronicproducts.com/*
 *://*.electronicsforu.com/*
 *://*.elpais.com/*
+*://*.emergentmind.com/*
 *://*.emojipedia.org/*
 *://*.emojis.wiki/*
 *://*.encanagroup.com/*
@@ -397,6 +402,7 @@
 *://*.examtray.com/*
 *://*.exception.site/*
 *://*.exceptionnotfound.net/*
+*://*.exchangetuts.com/*
 *://*.exercism.org/*
 *://*.exoticpetsecrets.com/*
 *://*.explained.today/*
@@ -462,6 +468,7 @@
 *://*.geek-docs.com/*
 *://*.geek-university.com/*
 *://*.geeksforgeeks.org/*
+*://*.geeksprogramming.com/*
 *://*.geeksveda.com/*
 *://*.geeky-gadgets.com/*
 *://*.georgiarecorder.com/*
@@ -501,6 +508,7 @@
 *://*.gq.com/*
 *://*.grabthiscode.com/*
 *://*.gramarpro.com/*
+*://*.grammarist.com/*
 *://*.great-american-adventures.com/*
 *://*.greycampus.com/*
 *://*.guidingtech.com/*
@@ -606,6 +614,7 @@
 *://*.interviewexpert.org/*
 *://*.interviewkickstart.com/*
 *://*.interviewsansar.com/*
+*://*.inventivehq.com/*
 *://*.inverse.com/*
 *://*.inviul.com/*
 *://*.ioflood.com/*
@@ -779,6 +788,7 @@
 *://*.loggly.com/*
 *://*.logicbig.com/*
 *://*.lookforward.cc/*
+*://*.lookr.net/*
 *://*.lovelifes.net/*
 *://*.loveshare.online/*
 *://*.luciol.info/*
@@ -857,6 +867,7 @@
 *://*.muratify.cc/*
 *://*.my-courses.net/*
 *://*.mycplus.com/*
+*://*.myenglishpages.com/*
 *://*.myfbshare.net/*
 *://*.myfox8.com/*
 *://*.myfunnews.com/*
@@ -919,6 +930,7 @@
 *://*.onlineocr.net/*
 *://*.onlinetutorialspoint.com/*
 *://*.onnewlife.com/*
+*://*.oodesign.com/*
 *://*.openclassrooms.com/*
 *://*.opengenus.org/*
 *://*.openjs.com/*
@@ -946,6 +958,7 @@
 *://*.pencilprogrammer.com/*
 *://*.pennlive.com/*
 *://*.people.com/*
+*://*.peoplefinders.com/*
 *://*.peopleinsider.net/*
 *://*.perltutorial.org/*
 *://*.persuasion.community/*
@@ -999,6 +1012,7 @@
 *://*.programming-idioms.org/*
 *://*.programming.vip/*
 *://*.programmingbydoing.com/*
+*://*.programmingline.com/*
 *://*.programmingoneonone.com/*
 *://*.programmingsimplified.com/*
 *://*.programtalk.com/*
@@ -1064,6 +1078,7 @@
 *://*.reflectoring.io/*
 *://*.reg.youthwant.com.tw/*
 *://*.regenbogenbeton.de/*
+*://*.reintech.io/*
 *://*.renanmf.com/*
 *://*.residentmar.io/*
 *://*.reuters.com/*
@@ -1150,6 +1165,7 @@
 *://*.so-viel-meer.de/*
 *://*.sobyte.net/*
 *://*.sodocumentation.net/*
+*://*.softwareadvice.com/*
 *://*.softwaregarden.dev/*
 *://*.softwaretestinghelp.com/*
 *://*.softwaretestingmaterial.com/*
@@ -1235,6 +1251,7 @@
 *://*.techtarget.com/*
 *://*.techvidvan.com/*
 *://*.techviral.net/*
+*://*.techwayfit.com/*
 *://*.teepr.com/*
 *://*.tektutorialshub.com/*
 *://*.telerik.com/*
@@ -1299,6 +1316,7 @@
 *://*.totaltypescript.com/*
 *://*.tothenew.com/*
 *://*.towardsdatascience.com/*
+*://*.towardsdev.com/*
 *://*.tpb.party/*
 *://*.tpointtech.com/*
 *://*.tracedynamics.com/*
@@ -1409,6 +1427,7 @@
 *://*.w3schools.am/*
 *://*.w3schools.blog/*
 *://*.w3schools.com/*
+*://*.w3schools.dev/*
 *://*.w3schools.in/*
 *://*.w3schools.io/*
 *://*.w3tutorials.net/*
@@ -1426,9 +1445,11 @@
 *://*.wctv.tv/*
 *://*.wdbj7.com/*
 *://*.wdsu.com/*
+*://*.wearecommunity.io/*
 *://*.webdevtutor.net/*
 *://*.webnots.com/*
 *://*.websitepulse.com/*
+*://*.weebly.com/*
 *://*.wellsb.com/*
 *://*.werlnet.net/*
 *://*.wesbos.com/*
