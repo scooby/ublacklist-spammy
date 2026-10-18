@@ -195,6 +195,7 @@
 *://*.cocomy.net/*
 *://*.cocotw.net/*
 *://*.coddingbuddy.com/*
+*://*.coddy.tech/*
 *://*.code-knowledge.com/*
 *://*.code-maven.com/*
 *://*.code-maze.com/*
@@ -249,6 +250,7 @@
 *://*.codingtutorialshut.com/*
 *://*.collegenote.net/*
 *://*.compsci.ca/*
+*://*.computerhope.com/*
 *://*.concretepage.com/*
 *://*.containiq.com/*
 *://*.contentkingapp.com/*
@@ -257,7 +259,9 @@
 *://*.convertunits.com/*
 *://*.cookingindoor.com/*
 *://*.coralogix.com/*
+*://*.core2learn.org/*
 *://*.coursehero.com/*
+*://*.coursereport.com/*
 *://*.cpp.edu/*
 *://*.cppforschool.com/*
 *://*.cppsecrets.com/*
@@ -576,6 +580,7 @@
 *://*.howtogeek.com/*
 *://*.hssszn.com/*
 *://*.html-online.com/*
+*://*.htmlcolorcodes.com/*
 *://*.htmlgoodies.com/*
 *://*.hubspot.com/*
 *://*.hudatutorials.com/*
@@ -599,6 +604,7 @@
 *://*.indeed.com/*
 *://*.independent.co.uk/*
 *://*.indiatimes.com/*
+*://*.indrek.io/*
 *://*.infobyip.com/*
 *://*.informit.com/*
 *://*.infoworld.com/*
@@ -625,6 +631,7 @@
 *://*.ireaded.com/*
 *://*.ironpdf.com/*
 *://*.iseepassword.com/*
+*://*.isetupedia.com/*
 *://*.ispot.news/*
 *://*.itcodar.com/*
 *://*.itexpertly.com/*
@@ -714,6 +721,7 @@
 *://*.kodejava.org/*
 *://*.koderhq.com/*
 *://*.kodify.net/*
+*://*.kopitubruk.org/*
 *://*.kotaku.com/*
 *://*.kotlin.thiyagaraaj.com/*
 *://*.kotlinserversquad.com/*
@@ -1111,6 +1119,7 @@
 *://*.scaler.com/*
 *://*.scand.com/*
 *://*.scholarhat.com/*
+*://*.schoolsw3.com/*
 *://*.sciencing.com/*
 *://*.scientecheasy.com/*
 *://*.scmp.com/*
@@ -1150,6 +1159,7 @@
 *://*.simplyjavascript.com/*
 *://*.sitepoint.com/*
 *://*.sk2zone.com/*
+*://*.skillfinder.com.au/*
 *://*.skillsugar.com/*
 *://*.sky.com/*
 *://*.skytowner.com/*
@@ -1423,6 +1433,7 @@
 *://*.w3programmers.org/*
 *://*.w3resource.com/*
 *://*.w3resource.net/*
+*://*.w3s.com.cn/*
 *://*.w3school.com.cn/*
 *://*.w3schools.am/*
 *://*.w3schools.blog/*
@@ -1430,6 +1441,12 @@
 *://*.w3schools.dev/*
 *://*.w3schools.in/*
 *://*.w3schools.io/*
+*://*.w3schools.org.cn/*
+*://*.w3schools.tech/*
+*://*.w3schools.tw/*
+*://*.w3schoolsapp.com/*
+*://*.w3schoolsedu.com/*
+*://*.w3schoolsua.github.io/*
 *://*.w3tutorials.net/*
 *://*.wahecode.com/*
 *://*.wangonya.com/*
@@ -1541,10 +1558,6 @@
 *://*.zhoucuimei.cc/*
 *://*.zhulinlin.net/*
 *://*.ziniprimeur.fr/*
-*://blog.indrek.io/*
-*://blog.submain.com/*
-*://blog.udemy.com/*
-*://books.trinket.io/*
 *://codehs.gitbooks.io/*
 *://computerengineeringuos.blogspot.com/*
 *://discourse.mcneel.com/*
